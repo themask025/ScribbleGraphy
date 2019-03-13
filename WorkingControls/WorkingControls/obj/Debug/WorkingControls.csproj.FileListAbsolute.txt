@@ -1,0 +1,10 @@
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\bin\Debug\WorkingControls.exe.config
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\bin\Debug\WorkingControls.exe
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\bin\Debug\WorkingControls.pdb
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.csprojAssemblyReference.cache
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.Form1.resources
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.Properties.Resources.resources
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.csproj.GenerateResource.cache
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.csproj.CoreCompileInputs.cache
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.exe
+C:\Users\evi02\source\repos\WorkingControls\WorkingControls\obj\Debug\WorkingControls.pdb
